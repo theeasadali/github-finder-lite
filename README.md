@@ -27,3 +27,5 @@ cd github-finder-lite
 npm install
 npm run dev
 ```
+
+![Screenshot](.assets/screenshot.JPG)
