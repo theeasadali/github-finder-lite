@@ -28,4 +28,4 @@ npm install
 npm run dev
 ```
 
-![Screenshot](.assets/screenshot.JPG)
+![Screenshot](./src/assets/screenshot.JPG)
